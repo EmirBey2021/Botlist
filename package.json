@@ -1,0 +1,38 @@
+{
+  "//1": "SYNX CODE",
+  "//2": "SYNX CODE",
+  "//3": "SYNX CODE",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "SYNX CODE SJ",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.0",
+    "express": "^4.16.4",
+    "fs": "^0.0.2",
+    "moment": "^2.27.0",
+    "quick.db": "^7.1.2",
+    "jimp": "^0.16.1",
+    "node-superfetch": "^0.1.10",
+    "moment-duration-format": "^2.3.2",
+    "common-tags": "^1.8.0",
+    "canvas": "^2.6.1",
+    "dblapi.js": "^2.4.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}  
